@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeeWebforms1", "DeeWebforms1\DeeWebforms1.csproj", "{099FD7DB-4C3C-413E-867C-7B4E0A4BF357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginWebform", "LoginWebform\LoginWebform.csproj", "{BBDF701A-9C8A-445B-9B37-D6E28075BCCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099FD7DB-4C3C-413E-867C-7B4E0A4BF357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099FD7DB-4C3C-413E-867C-7B4E0A4BF357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099FD7DB-4C3C-413E-867C-7B4E0A4BF357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099FD7DB-4C3C-413E-867C-7B4E0A4BF357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDF701A-9C8A-445B-9B37-D6E28075BCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDF701A-9C8A-445B-9B37-D6E28075BCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDF701A-9C8A-445B-9B37-D6E28075BCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDF701A-9C8A-445B-9B37-D6E28075BCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
